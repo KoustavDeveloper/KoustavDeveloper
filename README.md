@@ -22,4 +22,4 @@ Full-stack developer by day, gamer by night, and always a student of the ever-ev
 ![](https://github-contributor-stats.vercel.app/api?username=KoustavDeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KoustavDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KoustavDeveloper&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
